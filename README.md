@@ -42,9 +42,9 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 ## GitHub Stats 🌱​
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=HACKWITHNESBITT=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=victor=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HACKWITHNESBITT&theme=transparent&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=victor&theme=transparent&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
