@@ -29,7 +29,7 @@ If you find my work helpful or inspiring, consider supporting me by buying me a 
 
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 
 - 🏗 Launch 10+ open-source projects  
 - 🧠 Earn certifications in ethical hacking and security (CEH, OSCP)  
