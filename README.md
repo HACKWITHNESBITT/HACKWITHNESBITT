@@ -1,11 +1,6 @@
 # 👋 Hey there, I'm Victor Kimutai!
 
-Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work — and sometimes how they break 😈 (Always learning. Always ethical.)<br/>
-## ☕ Support My Work
-
-If you find my work helpful or inspiring, reach out to me on:
-<br>ronov610@gmail.com</br>
-
+Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work  and sometimes how they break 😈 (Always learning. Always ethical.)<br/>
 ---
 
 ## 👨‍💻 About Me
