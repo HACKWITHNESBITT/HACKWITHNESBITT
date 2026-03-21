@@ -5,10 +5,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 ## 👨‍💻 About Me
 
-- 💻 Full-stack Developer: Building modern, responsive, and functional web applications  
-- 🎨 Web Designer: Turning ideas into clean, elegant user interfaces  
+- 💻 Full-stack Developer: Building modern, responsive, and functional web applications    
 - 🛡️ Security Learner: Passionate about penetration testing, exploits, and reverse engineering  
-- 🌍 Based in: Nairobi, Kenya | 🌐 Working globally  
 - 🛠️ Tech Stack:  
   `HTML` • `CSS` • `JavaScript` • `Node.js` • `React` • `PHP` • `Python` • `Linux` • `SQL`
 
