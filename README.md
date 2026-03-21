@@ -3,10 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work — and sometimes how they break 😈 (Always learning. Always ethical.)<br/>
 ## ☕ Support My Work
 
-If you find my work helpful or inspiring, consider supporting me by buying me a coffee:<br/>
-
-[![Donate with PayPal](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/ncp/payment/EQ4PKQVPLDGTA)<br/>
-
+If you find my work helpful or inspiring, reach out to me on:
+<br>ronov610@gmail.com</br>
 
 ---
 
