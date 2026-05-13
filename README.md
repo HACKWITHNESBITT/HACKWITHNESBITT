@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 - 🏗 Launch 10+ open-source projects  
 - 🧠 Earn certifications in ethical hacking and security (CEH, OSCP)  
-- 🖥 Build SaaS platforms that solve real-world problems  
 - ✍️ Share more insights on development and tech on my blog  
 
 ---
