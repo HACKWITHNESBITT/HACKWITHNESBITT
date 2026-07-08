@@ -1,14 +1,14 @@
-# 👋 Hey there, I'm Victor Kimutai!
+#  Hey there, I'm Victor Kimutai!
 
-Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work  and sometimes how they break 😈 (Always learning. Always ethical.)<br/>
+Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work  and sometimes how they break  (Always learning. Always ethical.)<br/>
 
 
-## 👨‍💻 About Me
+##  About Me
 
-- 💻 Full-stack Developer: Building modern, responsive, and functional web applications    
-- 🛡️ Security Learner: Passionate about penetration testing, exploits, and reverse engineering  
-- 🛠️ Tech Stack:  
-  `HTML` • `CSS` • `JavaScript` • `Node.js` • `React` • `PHP` • `Python` • `Linux` • `SQL`
+-  Full-stack Developer: Building modern, responsive, and functional web applications    
+-  Security Learner: Passionate about penetration testing, exploits, and reverse engineering  
+-  Tech Stack:  
+  `HTML` • `CSS` • `JavaScript` • `Node.js` • `React` • `PHP` • `Python` • `Linux` • `SQL` • `Docker` • `TypeScript` 
 
 ---
 
@@ -20,18 +20,18 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 ---
 
-## 🚀 Goals for 2026
+##  Goals for 2026
 
-- 🏗 Launch 10+ open-source projects  
-- 🧠 Earn certifications in ethical hacking and security (CEH, OSCP)  
-- ✍️ Share more insights on development and tech on my blog  
-
+- 🔹 Contribute consistently to open source
+- 🔹 Build production-grade Go applications
+- 🔹 Deepen expertise in Bitcoin infrastructure and backend engineering
+- 🔹 Mentor and collaborate with developers across the community
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/victor-kimutai-592585356/)  
-- 📨 Email: [ronov610@gmail.com](mailto:ronov610@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/victor-kimutai-592585356/)  
+-  Email: [ronov610@gmail.com](mailto:ronov610@gmail.com)  
 
 ---
 
@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 ---
 
-## 🧠 Tech Stack
-### Skills 👩‍💻  
+##  Tech Stack
+### Skills  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKWITHNESBITT&theme=transparent&hide_border=false&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACKWITHNESBITT&show_icons=true&theme=transparent&hide_border=false)  
