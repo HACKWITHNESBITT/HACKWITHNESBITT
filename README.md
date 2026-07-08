@@ -1,6 +1,6 @@
-#  Hey there, I'm Victor Kimutai!
+#  Hey there, I'm Victor Kimutai
 
-Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Developer**, and a cybersecurity enthusiast who loves exploring the depths of how systems work  and sometimes how they break  (Always learning. Always ethical.)<br/>
+I am a software developer with experience building full-stack web applications, backend systems, and blockchain-based solutions. My technical background includes Go (Golang), JavaScript, React, Node.js, PHP/Laravel, SQL databases, Git, Docker, and REST APIs. I have worked on projects involving real-time communication, web development, Bitcoin and Lightning Network technologies, and automation tools.<br/>
 
 
 ##  About Me
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 
 ---
 
-## 🔧 Projects & Tools
+##  Projects & Tools
 
 - 🔹 Portfolio: [Visit My Website](https://victor-kimutai.onrender.com)  
 - 🔹 Custom tools & scripts for automation, monitoring, and testing  
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer**, **Software Deve
 ##  Get in Touch
 
 -  [LinkedIn](https://www.linkedin.com/in/victor-kimutai-592585356/)  
--  Email: [ronov610@gmail.com](mailto:ronov610@gmail.com)  
+-  [ronov610@gmail.com](mailto:ronov610@gmail.com)  
 
 ---
 
